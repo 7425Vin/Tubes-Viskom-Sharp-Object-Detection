@@ -3,3 +3,6 @@ https://youtu.be/1McTL_kTxss
 
 Link Google Colab dan Dataset
 https://drive.google.com/drive/folders/1ipQW0URO_OsEC6TGsO5OYI379yY6F8g9?usp=drive_link
+
+Link web streamlit
+https://tubes-viskom-sharp-object-detection-qxbczomfapddxadhdsbb7x.streamlit.app/
